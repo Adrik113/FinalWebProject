@@ -1,0 +1,16 @@
+form {
+    padding: 20px;
+    margin: 10px auto;
+    width: 80%;
+}
+button {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #007bff;/* Green */
+    color: white;
+    border: none;
+    border-radius: 5px;
+}
+button:hover {
+    background-color: #0056b3; 
+}
