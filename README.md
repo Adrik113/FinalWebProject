@@ -14,17 +14,18 @@ Week 1
 Week 2
 1.	Create wireframes and 
 2.	Design the user interface
-3.	  Created a functioning login page, with data stored in my database in the web application. Created an interview question page.
+3.	Created a functioning login page, with data stored in the database for the web application.
+4.	Created an interview question page.
 Week 3 
 1.	A functionality to the web application.
 2.	Add a page that allows the user to search for their responses 
 3.	Add the ability to register, create and change their passwords I also impose some password requirements
 4.	Add encryption to users’ information, especially the password. 
 Week 4 
-1.	Added the Add, edit, and delete functionality to my application to allow the user to add a response, edit a response and delete a response. 
-Week 5 
-I’ve haven’t made any major changes. I just added a style.css to my dashboard  
-1.	Add information to the readme file. 
+1.	Added the Add, edit, and delete functionality to application to allow the user to add a response, edit a response and delete a response. 
+Week 5
+ added a style.css to dashboard for improve visuals.
+ 
 
 Github url: https://github.com/Adrik113/FinalWebProject 
 
