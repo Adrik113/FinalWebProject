@@ -19,7 +19,7 @@ Week 2
 Week 3 
 1.	A functionality to the web application.
 2.	Add a page that allows the user to search for their responses 
-3.	Add the ability to register, create and change their passwords I also impose some password requirements
+3.	Add the ability to register, create and change their passwords  impose password requirements
 4.	Add encryption to users’ information, especially the password. 
 Week 4 
 1.	Added the Add, edit, and delete functionality to application to allow the user to add a response, edit a response and delete a response. 
