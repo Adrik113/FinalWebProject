@@ -12,7 +12,7 @@ Week 1
 2.	Configure git and make a GitHub repository
 3.	Set up a functioning Database for data storing 
 Week 2
-1.	Create wireframes 
+1.	Created Prototype wireframe
 2.	Design the user interface
 3.	Created a functioning login page, with data stored in the database for the web application.
 4.	Created an interview question page.
